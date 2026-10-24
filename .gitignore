@@ -1,0 +1,11 @@
+# build output (DOS / Watcom)
+*.obj
+*.OBJ
+*.exe
+*.EXE
+*.map
+*.MAP
+*.err
+
+# Mac files
+.DS_Store
